@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-02T09:06:07 IST" name="Suite" finished-at="2022-11-02T09:06:07 IST" duration-ms="315">
+    <groups>
+    </groups>
+    <test started-at="2022-11-02T09:06:07 IST" name="Test5" finished-at="2022-11-02T09:06:07 IST" duration-ms="106">
+      <class name="crossBrowserTesting.HRMLogin">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:crossBrowserTesting.HRMLogin@3c7f66c4]" started-at="2022-11-02T09:06:07 IST" name="launchApp" finished-at="2022-11-02T09:06:07 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="login()[pri:1, instance:crossBrowserTesting.HRMLogin@3c7f66c4]" started-at="2022-11-02T09:06:07 IST" name="login" finished-at="2022-11-02T09:06:07 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="additems()[pri:2, instance:crossBrowserTesting.HRMLogin@3c7f66c4]" started-at="2022-11-02T09:06:07 IST" name="additems" finished-at="2022-11-02T09:06:07 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- additems -->
+        <test-method signature="payment()[pri:3, instance:crossBrowserTesting.HRMLogin@3c7f66c4]" started-at="2022-11-02T09:06:07 IST" name="payment" finished-at="2022-11-02T09:06:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- payment -->
+        <test-method signature="logout()[pri:4, instance:crossBrowserTesting.HRMLogin@3c7f66c4]" started-at="2022-11-02T09:06:07 IST" name="logout" finished-at="2022-11-02T09:06:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:crossBrowserTesting.HRMLogin@3c7f66c4]" started-at="2022-11-02T09:06:07 IST" name="closeApp" finished-at="2022-11-02T09:06:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- crossBrowserTesting.HRMLogin -->
+    </test> <!-- Test5 -->
+    <test started-at="2022-11-02T09:06:07 IST" name="Test4" finished-at="2022-11-02T09:06:07 IST" duration-ms="33">
+      <class name="crossBrowserTesting.HRMLogin">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:crossBrowserTesting.HRMLogin@5e600dd5]" started-at="2022-11-02T09:06:07 IST" name="launchApp" finished-at="2022-11-02T09:06:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="login()[pri:1, instance:crossBrowserTesting.HRMLogin@5e600dd5]" started-at="2022-11-02T09:06:07 IST" name="login" finished-at="2022-11-02T09:06:07 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="additems()[pri:2, instance:crossBrowserTesting.HRMLogin@5e600dd5]" started-at="2022-11-02T09:06:07 IST" name="additems" finished-at="2022-11-02T09:06:07 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- additems -->
+        <test-method signature="payment()[pri:3, instance:crossBrowserTesting.HRMLogin@5e600dd5]" started-at="2022-11-02T09:06:07 IST" name="payment" finished-at="2022-11-02T09:06:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- payment -->
+        <test-method signature="logout()[pri:4, instance:crossBrowserTesting.HRMLogin@5e600dd5]" started-at="2022-11-02T09:06:07 IST" name="logout" finished-at="2022-11-02T09:06:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:crossBrowserTesting.HRMLogin@5e600dd5]" started-at="2022-11-02T09:06:07 IST" name="closeApp" finished-at="2022-11-02T09:06:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- crossBrowserTesting.HRMLogin -->
+    </test> <!-- Test4 -->
+  </suite> <!-- Suite -->
+</testng-results>
